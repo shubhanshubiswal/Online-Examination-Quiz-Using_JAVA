@@ -1,4 +1,4 @@
-# online_exam_using_java
+# Online-Examination-Quiz-Using_JAVA
 Online Examination Prototype Website for the college,using HTML5 and CSS for front-end and JSP and SQL for back-end.
 
 
