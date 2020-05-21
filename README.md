@@ -1,5 +1,5 @@
 # online_exam_using_java
-Online Examination Prototype Website for my college done using HTML5 and CSS for front-end and JSP and SQL for back-end.
+Online Examination Prototype Website for the college,using HTML5 and CSS for front-end and JSP and SQL for back-end.
 
 
 This project is only a working prototype,
@@ -9,6 +9,3 @@ Things to install:
 1. Eclipse Editor
 2. Oracle 11g XE
 3. Apache-Tomcat 9
-
-Signing off,
-Aditya Prasad Tripathy
